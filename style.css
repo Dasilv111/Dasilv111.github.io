@@ -2,13 +2,13 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f0f2f5;
-    color: #333333;
+    color: #;Dark red;
     margin: 0;
-    padding: 0;
-    display: flex;
+    padding: 0; Thin black lines
+    display: flex; 
     flex-direction: column;
     min-height: 100vh;
-    align-items: center;
+    align-items: center; small sparkling white stars
     justify-content: center;
 }
 
@@ -19,13 +19,13 @@ header {
 }
 
 h1 {
-    color: #2563eb;
+    color: #wWhite;
     margin-bottom: 5px;
 }
 
 /* Card container for our interactive section */
 .card {
-    background-color: #ffffff;
+    background-color: #White;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
