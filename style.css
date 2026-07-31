@@ -1,10 +1,10 @@
 /* Global styles for the whole page */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f0f2f5;
+    background-color: ;dark red with red roses fading
     color: #;Dark red;
-    margin: 0;
-    padding: 0; Thin black lines
+    margin: 0; white vines decorated on the sides
+    padding: 0; red petals 
     display: flex; 
     flex-direction: column;
     min-height: 100vh;
@@ -14,7 +14,7 @@ body {
 
 /* Header styling */
 header {
-    text-align: center;
+    text-align: center; above
     margin-bottom: 20px;
 }
 
@@ -35,11 +35,11 @@ h1 {
 
 /* Button styling */
 button {
-    background-color: #2563eb;
+    background-color: #black;
     color: white;
     border: none;
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 20px;
     border-radius: 6px;
     cursor: pointer;
     transition: background-color 0.2s ease;
